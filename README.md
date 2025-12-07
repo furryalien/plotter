@@ -1,5 +1,7 @@
 # plotter
 
+DIY LY Drawbot Pen Drawing Robot Lettering Corexy Normal Version A4 A3 Engraving Frame Plotter Robot Kit for Drawing Writing
+
 This has Nema 17 steppers
 
 Specifically
@@ -10,7 +12,8 @@ DPI_16X = 1067
 
 ----
 
-No instructions were in the box. Contacting the seller via Aliexpress got me instructions including Inkscape setup for the most part.
+No instructions were not in the box. This seems to be a FAQ for the sellers, and they advise that customs often does not allow the USB device that is part of the specificiations.
+Contacting the seller via Aliexpress got me a link to a google drive with instructions including Inkscape setup for the most part.
 The instructions were clean when scanned via Virus Total
 The PDF's had mostly chinese text in them. Not too bad. The pictures were more than enough to get things set.
 I did have a few things that I assembled, disassembled, and reassembled. No big deal, just dont tighten everything a ton until you are done.
