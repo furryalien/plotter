@@ -27,4 +27,6 @@ I wasnt able to get it to work with any software other than what was provided.
 
 ---
 
+The board is a clone of EiBotBoard https://www.schmalzhaus.com/EBB/ 
+
 The board was able to be flashed with the latest EBB firmware via https://wiki.evilmadscientist.com/Installing_software
