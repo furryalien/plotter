@@ -4,11 +4,13 @@ DIY LY Drawbot Pen Drawing Robot Lettering Corexy Normal Version A4 A3 Engraving
 
 This has Nema 17 steppers
 
+https://components101.com/motors/nema17-stepper-motor
+
 Specifically
 ```
 SL42STH34-1334A
-NEMA 17 : Steps per inch = (200 * 16) / (1.8 degrees per step) = 1066.67 steps per inch.
-DPI_16X = 2,133 # 1067 *2
+NEMA 17 : Steps per inch = (200 * 16) / (1.8 degrees per step) = 1777.78
+DPI_16X = 3555  # ~= 1777 *2
 ```
 
 ----
