@@ -6,7 +6,8 @@ This has Nema 17 steppers
 
 https://components101.com/motors/nema17-stepper-motor
 
-Specifically
+Specifically in idraw_conf.py I use the following
+
 ```
 SL42STH34-1334A
 NEMA 17 : Steps per inch = (200 * 16) / (1.8 degrees per step) = 1777.78
@@ -14,7 +15,14 @@ DPI_16X = 2489
 
 ```
 
-## 3555  # ~= 1777 *2 was way too big.  I settled out at about 88.8/cm 
+3555  # ~= 1777 *2 was way too big.  I settled out at about 88.8/cm 
+
+----
+
+In ddraw (inkscape extention), I use 
+* Pen Height Up: 25
+* Pen Height Down: 65
+* Laser Power: 100
 
 ----
 
