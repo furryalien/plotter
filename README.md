@@ -10,8 +10,11 @@ Specifically
 ```
 SL42STH34-1334A
 NEMA 17 : Steps per inch = (200 * 16) / (1.8 degrees per step) = 1777.78
-DPI_16X = 3555  # ~= 1777 *2
+DPI_16X = 2489
+
 ```
+
+## 3555  # ~= 1777 *2 was way too big.  I settled out at about 88.8/cm 
 
 ----
 
