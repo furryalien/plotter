@@ -36,11 +36,11 @@ The PDF's had mostly chinese text in them. Not too bad. The pictures were more t
 
 I did have a few things that I assembled, disassembled, and reassembled. No big deal, just dont tighten everything a ton until you are done.
 
----
+----
 
 The instructions are pretty good overall.
 
---
+----
 
 Alignment was challenging and took a bit of time. Here are some tips based on my experience.
 
@@ -58,20 +58,24 @@ To do alignment
 * Do micro adjustments as necessary
 * Test, repeat as necessary
 
----
+----
 
 I wasnt able to get it to work with any software other than what was provided.
 
----
+----
 
 The board is a clone of EiBotBoard https://www.schmalzhaus.com/EBB/ 
 
 The board was able to be flashed with the latest EBB firmware via https://wiki.evilmadscientist.com/Installing_software
 
---
+----
 
 clamps for the belt
 
 I didnt like that it wanted me to use zip ties so I used binder clips to start with. Even after tweaking I still didnt like it. I looked at a few different 3d printed options, but didnt want to mess with that. So I kept thinkging about it. I wanted something that could work like a hinge so that it would pinch and release as necessary. There are a few 3d printed models that were close to this but not exactly what I wanted. After ruminating for a bit I remembered that I had a number of old bicycle chains, and that when disassembled, the links could be connected with M3 bolts and nuts to create a pinch point so thats what I did. They work well.
 
+----
 
+belt tensioning
+
+I was watching the plotter the other day and I was noticing that the belts were bounding around quite a bit. So I thought that they needed retentioning, so I did that. Then plotting again I noticed the same belt bouncing. I ordered some of the spring tensioners and was impatient and not convinced that I thought those would be best since they are designed to go in the working areas of the belt. Thinking a bit more, the pen carrier has the belt ends nicely aligned end to end. So potentially something that can tension the belt, end to end could work. I intitially thought about having a spring between the ends and I think that would work. I didnt have any springs, so Im initally trying rubber bands and zip ties to connect the ends across the carrier. The initial setup of this works and I can see that the belts are more tensioned.
