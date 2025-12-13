@@ -62,6 +62,16 @@ To do alignment
 
 I wasnt able to get it to work with any software other than what was provided.
 
+I was able to export svg from Drawbotv3 and use that in inkscape (import).
+
+I have since collaborated with Github Copilot to create a few scripts that have been helpful for me.
+
+The first is https://github.com/furryalien/EggBot/tree/master/other/jog-control which is very helpful for moving the carriage around when testing stuff.
+
+The second is the collection in here https://github.com/furryalien/EggBot/tree/master/other/gcode-plotter 
+* The calibration script was very helpful for adjusting and learnings what was going on.
+* The gcode script makes it so I can use gcode from just about anything with the plotter. It mostly uses the gcode for the path since there is only up and down for the z-axis. This is very useful since then I can use Drawbotv3 to generate the gcode and then just run it here. It suits my workflow nicely.
+
 ----
 
 The board is a clone of EiBotBoard https://www.schmalzhaus.com/EBB/ 
